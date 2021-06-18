@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health</string>
+    <string name="tv_training">Тренировки</string>
+    <string name="tv_today">сегодня</string>
+    <string name="tv_next_training">Следующая тренировка</string>
+    <string name="btn_begin_training">Начать тренировку</string>
+    <string name="tv_date_example"><u>18.05 в 13:00</u></string>
+</resources>
